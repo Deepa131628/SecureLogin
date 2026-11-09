@@ -47,3 +47,13 @@ Open http://localhost:8080/register, create an account, then sign in at http://l
 - The first registered account receives the `USER` role. Do not expose admin-role assignment to public registration.
 - V2 (TOTP MFA, password reset workflow, login history, risk signals and throttling) and V3 (admin UI, audit-event views and analytics) are planned extensions, not implemented in this starter.
 - Before deployment, use HTTPS, secure cookie settings, secret management, database migrations, generic account-recovery responses, rate limiting, monitoring, and security testing.
+## Screenshots
+
+### Registration Page
+![Registration](register.png)
+
+### Login Page
+![Login](login.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
