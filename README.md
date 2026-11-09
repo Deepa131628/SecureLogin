@@ -50,10 +50,10 @@ Open http://localhost:8080/register, create an account, then sign in at http://l
 ## Screenshots
 
 ### Registration Page
-![Registration](register.png)
+![Registration](register.png.png)
 
 ### Login Page
-![Login](login.png)
+![Login](login.png.png)
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
