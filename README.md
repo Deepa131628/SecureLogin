@@ -38,7 +38,7 @@ Do not commit real database passwords to GitHub. Change the placeholder in `appl
 From the project root in PowerShell:
 
 ```powershell
-.\mvnw.cmd spring-boot:run
+mvn spring-boot:run
 ```
 
 Open http://localhost:8080/register, create an account, then sign in at http://localhost:8080/login.
